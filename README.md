@@ -1,4 +1,4 @@
-## Delivery pipeline
+# Delivery pipeline
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=chaithanyakumarreddy57-spec&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F273006881%3Fu%3D7eca947d56091705ce1aec41c907726926c9682e%26v%3D4" alt="chaithanyakumarreddy57-spec hero visual" />
@@ -25,6 +25,10 @@ Building useful things and learning in public.
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/stats?username=chaithanyakumarreddy57-spec&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F273006881%3Fu%3D7eca947d56091705ce1aec41c907726926c9682e%26v%3D4" alt="chaithanyakumarreddy57-spec stats visual" />
+</p>
+
+<p align="center">
+  <img src="https://profilepulse-rayd.onrender.com/badge/chaithanyakumarreddy57-spec?label=Unique%20Visitors" alt="Unique Visitors" />
 </p>
 
 <p><code>69 contributions</code> · <code>0 day streak</code></p>
